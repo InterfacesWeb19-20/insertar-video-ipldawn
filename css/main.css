@@ -1,0 +1,77 @@
+
+#buscarBoton{
+
+  color: white;
+  background-color: #13A3B7;
+  border: none;
+}
+
+#buscarBoton:hover{
+
+  color: white;
+  background-color: #048495;
+  border: none;
+}
+
+#learnBoton{
+
+  background-color: #13A3B7;
+  border: none;
+}
+
+#learnBoton:hover{
+
+  background-color: #048495;
+  border: none;
+}
+
+.cards-left{
+
+  text-align: left;
+}
+
+.art_botones{
+
+  background-color: #13A3B7;
+  border: none;
+}
+
+.art_botones:hover{
+
+  background-color: #048495;
+  border: none;
+}
+
+footer{
+
+  height: 150px;
+  background-color: #13A3B7;
+  color: white;
+}
+
+.footer_align{
+
+  line-height: 9;
+  text-align: right;
+}
+
+.footer_align p{
+
+  margin: 0;
+  padding: 0;
+}
+
+footer h3{
+
+  line-height: 5;
+}
+
+
+
+@media (max-width: 768px) {
+
+  .cards{
+
+    padding-bottom: 5%;
+  }
+}
